@@ -1,7 +1,7 @@
 # Seutiaozinho Padaria App
 
-Aplicativo Android simples para controle de vendas, pedidos e simulação de caixa.
-Projeto desenvolvido como parte de uma atividade de extensão universitária.
+Aplicativo Android simples para controle de vendas, pedidos e caixa.
+Projeto voluntário desenvolvido como parte de uma atividade de extensão universitária.
 
 ## Funcionalidades
 - Tela de login (usuário/senha simples)
