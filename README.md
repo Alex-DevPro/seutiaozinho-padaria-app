@@ -6,13 +6,13 @@ Projeto desenvolvido como parte de uma atividade de extensão universitária.
 ## Funcionalidades
 - Tela de login (usuário/senha simples)
 - Cadastro de pedidos (produto, quantidade, valor)
-- Simulação de caixa com cálculo de troco
+- Caixa com cálculo de troco
 
 ## Tecnologias utilizadas
 - Kotlin
 - Android Studio
 - Interface XML simples
-- Armazenamento local (SharedPreferences ou SQLite)
+- Armazenamento (SharedPreferences, SQLite ou firebase)
 
 ## Estrutura do projeto
 - `/app`: Código-fonte do app
