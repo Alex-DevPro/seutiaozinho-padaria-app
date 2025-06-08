@@ -8,9 +8,8 @@
 │   ├── CaixaActivity.kt
 │   └── ...
 ├── /mockups
-│   ├── login.png
-│   ├── pedidos.png
-│   ├── caixa.png
+│   ├── login.jpeg
+│   ├── caixa.jpeg
 │
 ├── /docs
 │   └── manual-uso.pdf
