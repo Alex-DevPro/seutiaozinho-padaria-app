@@ -1,0 +1,16 @@
+/seutiaozinho-padaria-app
+│
+├── README.md
+├── /app
+│   ├── MainActivity.kt
+│   ├── LoginActivity.kt
+│   ├── PedidoActivity.kt
+│   ├── CaixaActivity.kt
+│   └── ...
+├── /mockups
+│   ├── login.png
+│   ├── pedidos.png
+│   ├── caixa.png
+│
+├── /docs
+│   └── manual-uso.pdf
